@@ -1,36 +1,67 @@
 # Portfolio
 
-Full-stack developer focused on building real-world systems in healthcare and commerce.
+# Isaak Gathuru
 
-## 🔧 Tech Stack
-- Frontend: React, Next.js, TailwindCSS
-- Backend: Node.js, Prisma ORM
-- Database: PostgreSQL, SQLite
-- DevOps: Nginx, VPS deployment, SSL (Let's Encrypt)
+Full-stack developer focused on designing and building production-ready systems in healthcare and commerce domains.
 
-## 🚀 Selected Work
+## Core Stack
 
-### 🏥 Healthcare Systems (HMIS)
-- Developed modules for patient registration and nursing workflows  
-- Implemented queue-based worklists and patient action systems  
-- Integrated external imaging (DICOM/PACS) services  
-- Designed modular and scalable system architecture  
+### Frontend & Interfaces
+- React, Next.js, TailwindCSS  
+- Vite (SPA development)  
+- Hybrid Mobile Apps (Capacitor)  
+- Desktop Applications (Electron, Tauri)
 
-### 🏥 Radiology Interface
-- Built a radiology workflow interface for clinical use  
-- Integrated DICOM viewer for imaging access  
-- Handled deployment using Nginx with HTTPS configuration  
+### Backend & APIs
+- Node.js (primary), Prisma ORM  
+- Python (Flask)  
+- Java (Spring Boot)
 
-### 🛒 E-commerce Platform (In Progress)
-- Designed multi-tenant architecture  
-- Implemented hybrid product-service model  
-- Structured normalized order system (parent-child relationships)  
-- Integrated payment workflows  
+### Databases
+- PostgreSQL, MySQL  
+- SQLite  
+- SQL (relational design and querying)
 
-## 📈 Focus Areas
-- System design and architecture
-- Healthcare software (HMIS)
-- Scalable backend systems
-- Deployment and infrastructure
+### Infrastructure & Deployment
+- Nginx, VPS deployment  
+- HTTPS (Let's Encrypt), reverse proxy configuration  
 
-## Open to collaboration and feedback
+---
+
+## Experience Highlights
+
+### Healthcare Systems (HMIS)
+- Developed modular components for patient registration and nursing workflows  
+- Implemented queue-driven worklists and patient action pipelines  
+- Integrated external imaging systems (DICOM/PACS) into clinical workflows  
+- Designed scalable architecture for multi-module hospital systems  
+
+### Radiology Interface
+- Built a radiology workflow interface for clinical environments  
+- Integrated DICOM viewer for imaging access and diagnostics  
+- Managed deployment and routing using Nginx with HTTPS configuration  
+
+### E-commerce Platform (Ongoing)
+- Designed multi-tenant system architecture  
+- Implemented hybrid product-service ordering models  
+- Structured normalized order flows using parent-child relationships  
+- Integrated payment workflows and transaction handling  
+
+### POS & Inventory Systems
+- Built a Point-of-Sale (POS) system using Next.js and Node.js  
+- Developed inventory and sales management system using Vite + Flask  
+- Implemented stock tracking, transactional flows, and reporting logic  
+
+---
+
+## Focus Areas
+- System architecture and data modeling  
+- Healthcare software systems (HMIS)  
+- Scalable backend design  
+- Cross-platform application development (web, mobile, desktop)  
+- Deployment and infrastructure management  
+
+---
+
+## Availability
+Open to collaboration, contract work, and full-time opportunities.
